@@ -1,0 +1,5 @@
+Dataset: Credit Card Fraud Detection
+Samples: 284807
+Features: 31
+Labeled: Yes
+Fraud cases: 492 (0.1727%)

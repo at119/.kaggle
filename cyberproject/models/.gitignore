@@ -1,6 +1,11 @@
 venv/
+.env
 __pycache__/
 *.pyc
 datasets/
+data/
+*.csv
+logs/
+*.log
 models/
 .ipynb_checkpoints/
